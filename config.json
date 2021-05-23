@@ -1,0 +1,11 @@
+{
+    "token": "discord token",
+    "password": "optional", 
+    "prefix": "x",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/lerker_owns_you",
+    "tts_language": "en"
+}
